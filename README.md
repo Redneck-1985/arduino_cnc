@@ -11,3 +11,5 @@ Uses inkscape-unicorn (https://github.com/martymcguire/inkscape-unicorn) to prod
 axis_control - used to setup motor, various functions to test movement
 cnc_uno - code which parses gcodes into axis movement
 cnc_parser - processing sketch which feeds gcodes to arduino
+
+*gcode examples have last pen up command removed; for my machine it worked easier
